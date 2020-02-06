@@ -19,7 +19,9 @@ Python 3.6 or greater.
 To get list of the most common first names of your friends and how many of them have that name, run from the command line using Python 3. If you run the script with the friends.json file in the same folder you don't need to pass an argument. otherwise you can pass the location of the file as the first argument. 
 
 ex. Linux or MacOS
+
 python3 ~/Downloads/top_firstnames.py ~/Downloads/friends/friends.json
 
 ex. Windows
+
 python C:\Users\Allen\Downloads\top_firstnames.py C:\Users\Allen\Downloads\friends\friends.json
